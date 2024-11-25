@@ -30,3 +30,10 @@ Key Columns:  App name, Category, Rating, Reviews, Size, Installs, Type,  Price,
 User Reviews Data: Provides user feedback with sentiment analysis (positive, neutral, negative).
 Key Columns: App name, Translated Review, Sentiment, Sentiment Polarity, Sentiment Subjectivity.
 
+Mode was used to fill in missing values for Android version,  Type, and Content rating because these columns contained categorical data.
+Current version column was dropped since it would not be used in this analysis.
+
+# Data Visualization and Analysis
+
+Relevant Charts were plotted to try to explore the objectives of the project.
+Useful insights and conclusions were drawn from the analysis of the charts.
